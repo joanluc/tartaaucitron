@@ -14,7 +14,7 @@ return array(
     'Close' => 'Clausir',
     "Manage cookies" => 'Gestion deths cookies',
     "This site uses cookies," => 'Notre siti utiliza deths cookies,',
-    "To personalize and improve your comfort of use. We mainly use statistical data for performance and optimization purposes and to bring you a better experience.<br> For more information or to change your preferences, click on the Customize button." => "Pour personnaliser et améliorer votre confort d'utilisation. Nous utilisons essentiellement les données statistiques à des fins de performance et d'optimisation et pour vous apporter une meilleure expérience.<br> Pour obtenir davantage d'informations ou pour modifier vos préférences, cliquez sur le bouton « Personnaliser ».",
+    "To personalize and improve your comfort of use. We mainly use statistical data for performance and optimization purposes and to bring you a better experience.<br> For more information or to change your preferences, click on the Customize button." => "Per personalizar e melhorar lo vostre confòrt d'utilizacion. Utilizam essencialament las donadas estatisticas à de fins de performança e d'optimizacion e per vos aportar ua meilhora experiença.<br> Entà obtiéner mei d'informacions o entà modificar las vòstas preferéncias, que clicatz suu boton « Personalizar ».",
     "To learn more about these cookies and the processing of your personal data, please read our" => 'Pour en savoir plus sur ces cookies et le traitement de vos données personnelles, consultez notre',
     "privacy policy" => 'charte des données personnelles',
     'Preference for all services' => 'Préférences pour tout les services',
