@@ -13,7 +13,11 @@ return array(
     'Accept all' => 'Tot acceptar',
     'Close' => 'Clausir',
     "Manage cookies" => 'Gestion deths cookies',
-    "This site uses cookies," => 'Notre siti utiliza deths cookies,',
+    "This site uses cookies," => 'Notre siti utiliza deths cookies,',    
+    "To personalize and improve your comfort of use. We mainly use statistical data for performance and optimization purposes and to bring you a better experience.<br> For more information or to change your preferences, click on the Customize button." => "Per personalizar e melhorar lo vostre confòrt d'utilizacion. Utilizam essencialament las dadas estatisticas à de fins de performança e d'optimizacion e per vos aportar ua meilhora experiença.<br> Entà obtiéner mei d'informacions o entà modificar las vòstas preferéncias, que clicatz suu boton « Personalizar ».",
+    "To learn more about these cookies and the processing of your personal data, please read our" => 'Entà ne saber mei sus aqueths cookies e lo tractament de las vòstas dadas personaus, que consultatz la nosta',
+    "privacy policy" => 'carta de las dadas personaus',
+    'Preference for all services' => 'Preferéncias entà tot los servicis',
 
     // linhas que demoran de revirar dens tarteaucitron-oc-default.lang.php
 
